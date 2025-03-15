@@ -1,0 +1,22 @@
+{
+  "Mp3 Lease": {
+    "title": "Mp3 Lease 🎧",
+    "description": "- Used for Music Recording \n- Distribute up to 2,000 copies \n- 100,000 Online Audio Streams",
+    "price": "10$"
+  },
+  "Waw Lease": {
+    "title": "Waw Lease 🎧",
+    "description": "- Used for Music Recording \n- 1 Music Video \n- Distribute up to 5,000 copies \n- 200,000 Online Audio Streams",
+    "price": "25$"
+  },
+  "Trackout Lease": {
+    "title": "Trackout Lease (Unlimited) 🎧",
+    "description": "- Used for Music Recording \n- Unlimited Music Videos \n- Distribute up to UNLIMITED copies \n- For Profit Live Performances \n- Unlimited Online Audio Streams",
+    "price": "50$"
+  },
+  "Exclusive": {
+    "title": "Exclusive 🎧",
+    "description": "- Used for Music Recording \n- Unlimited Music Videos \n- Distribute up to UNLIMITED copies \n- For Profit Live Performances \n- Unlimited Online Audio Streams",
+    "price": "from 100$"
+  }
+}
