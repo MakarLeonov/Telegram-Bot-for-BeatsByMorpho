@@ -1,7 +1,7 @@
 const { InlineKeyboard } = require("grammy");
 const tarifs = require("../data/tarifs.json");
 
-module.exports.showTarifs = (bot) => {
+module.exports = (bot) => {
   bot.command("tarifs", async (ctx) => {
     const buttonRows = Object.keys(tarifs).map((label) => [
       InlineKeyboard.text(label, label),

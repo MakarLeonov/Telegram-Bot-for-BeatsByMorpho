@@ -3,7 +3,7 @@ const faq = require("../data/faq.json");
 
 const answerMessageIds = new Map();
 
-module.exports.faq = (bot) => {
+module.exports = (bot) => {
   bot.command("faq", async (ctx) => {
     const buttonRows = faq.faq.map((item, index) => [
       InlineKeyboard.text(item.question, `faq_${index}`),

@@ -1,4 +1,4 @@
-module.exports.links = (bot) => {
+module.exports = (bot) => {
   bot.command("links", async (ctx) => {
     const linksMessage = `
   Полезные ссылки:
